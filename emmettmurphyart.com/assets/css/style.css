@@ -1,0 +1,309 @@
+/* Emmett Murphy */
+
+body {
+	background-image:url(../image/bg.jpg);
+}
+a img {border: none; }
+
+#main {
+	width:800px;
+	margin-left:auto;
+	padding-left:10px;
+	padding-right:10px;
+	margin-right:auto;
+	font-family: Garamond;
+}
+.emailsubscribe {
+	height:12px;margin-left:-15px;width:120px;vertical-align:top;margin-top:20px;font-family:Garamond;font-size:10pt;
+}
+#framed {
+	background-image: url('../image/frame.png');
+	background-repeat: no-repeat;
+	width: 657px;
+	height: 524px;
+}
+#framed2 {
+	background-image: url('../image/frame2.png');
+	background-repeat: no-repeat;
+	width: 656px;
+	height: 520px;
+}
+
+.subscribe {
+	background-image:url('../image/subscribetube.png');
+	width:240px;
+	margin-left:auto;
+	margin-right:auto;
+}
+.fancybutton {
+width: 100px; height: 10px; padding: 10px 10px; text-align: left; border-left:1px solid; font-size: 10px; color: #fff; text-transform: uppercase; text-decoration: none; font-family: Verdana; 
+	background-color: #923020;
+}
+a.fancybutton:hover,a.ex3:active {background:#bc3e29;}
+#firstimage {
+	display:none;
+}
+.commentstbl td {
+	padding-bottom:5px;
+	padding-left:10px;
+}
+.dot {
+	position:absolute;
+	margin-left:-18px;
+	margin-top:145px;
+}
+.slidernavleft {
+	margin-left:15px;
+}
+.slidernavright {
+	margin-left:590px;
+}
+#connect1{
+	margin-bottom:20px;
+}
+.vertline {
+	width:1px;
+	display:inline;
+	float:left;
+	background-color:black;
+}
+.offwhitematte {
+	height:457px;
+	width:640px;
+	background-image: url('../image/matte.jpg');
+}
+.offwhitebox {
+	background-color:#fefff1;
+}
+.shadow {
+	max-width:606px;
+	margin-left:-7px;
+	-moz-box-shadow: 3px 3px 4px #000;
+	-webkit-box-shadow: 3px 3px 4px #000;
+	box-shadow: 7px 7px 20px #000;
+	/* For IE 8 */
+	-ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#000000')";
+	/* For IE 5.5 - 7 */
+	filter: progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#000000');
+}
+.homepageimage {
+	height:424px;
+	width:606px;
+	margin-left:-5px;
+	background:black;
+	margin-top:15px;
+}
+.framedhomepageimage {
+	width:372px;
+	height:241px;
+	padding-top:119px;
+	margin-left: -12px;
+	margin-top:15px;
+}
+.framed2homepageimage {
+	width:392px;
+	height:254px;
+	padding-top:112px;
+	margin-left: -12px;
+	margin-top:15px;
+}
+
+.line {
+	height:1px;
+	display:inline;
+	float:left;
+	width:700px;
+	margin-left:50px;
+	margin-bottom:12px;
+	background-color:black;
+}
+.footer1line {
+	height:1px;
+	display:inline;
+	float:left;
+	width:700px;
+	margin-left:50px;
+	margin-top:12px;
+	margin-bottom:12px;
+	background-color:black;
+}
+
+.linebold {
+	background: #000;
+	height:2px;
+	width:800px;
+	margin-top:10px;
+	margin-bottom:10px;
+}
+#pagecontent {
+	width:560px;
+	margin-left:auto;
+	margin-right:auto;
+}
+.description {
+	text-align:center;
+}
+.footer {
+	width:266px;
+	float:left;
+	height:120px;
+	background-image: url('../image/smudge.png');
+	vertical-align: top;
+	text-align: center;
+
+}
+#watercolorfooter {
+	margin-top:25px;
+	color:blue;
+	font-style:italic;
+	margin-bottom:20px;
+	text-align:center;
+}
+.footer1 {
+	width:100px;
+	float:left;
+	margin-left:100px;
+	vertical-align: top;
+	text-align: center;
+}
+.footerwrapper {
+	margin-left:160px;
+	margin-right:auto;
+	width:700px;
+}
+.boldItalics {
+	font-style: italic;
+	font-weight:bold;
+	padding-bottom: 5px;
+}
+
+.boldItalics a {
+	text-decoration:none;
+}
+.boldItalics a:hover {
+	text-decoration:underline;
+}
+#picture {
+	width:640px;
+	margin-left:auto;
+	text-align: left;
+	margin-right:auto;
+}
+#blurb {
+	text-align: center;
+	font-style: italic;
+	margin-top:62px;
+	margin-bottom:15px;
+}
+.forsale {
+	color:red;
+	font-weight: bold;
+}
+.link {
+	font-style: italic;
+	text-align: right;
+
+}
+h2 {
+	text-align: left;
+	margin-top:30px;
+	text-decoration: underline;
+}
+.newh2 {
+	text-align: center;
+	font-size: larger;
+	margin-top:10px;
+	font-weight: bold;
+	font-style:italic;
+}
+.h22 {
+	text-align: left;
+	text-decoration: underline;
+	font-size: 1.5em;
+	margin-top:10px;
+	margin-bottom:10px;
+	font-weight: bold;
+}
+
+h3 {
+	text-decoration: underline;
+}
+h4 {
+	font-style: italic;
+}
+.webdesign {
+	font-style: italic;
+	font-size: smaller;
+	margin-top:6px;
+}
+.desc {
+	text-align: left;
+	width:550px;
+	padding-left:30px;
+}
+.desc1 {
+	text-align: left;
+	width:640px;
+}
+/*
+#navbox {
+	float:left;
+	margin-top:-10px;
+	width:442px;
+	height:100px;
+}
+*/
+.navbox {
+	margin-left:auto;
+	margin-right:auto;
+	width:636px;
+	height:50px;
+	margin-bottom:10px;
+	margin-top:-8px;
+}
+
+.header {
+	margin-left:auto;
+	margin-right: auto;
+	height:100px;
+	width:740px;
+}
+#signature {
+	background-image:url("../image/signature.png");
+	height:100px;
+	width: 296px;
+}
+.mailinglist {
+	margin-bottom:50px;
+}
+
+.nav li {
+	background-image: url('../image/tube1.png');
+	background-repeat:no-repeat;
+	font-family: Garamond;
+	float:left;
+	text-align: center;
+	margin-top:-8px;
+	margin-bottom: auto;
+	line-height:50px;
+	height:55px;
+	width:134px;
+	list-style-type: none;
+}
+.nav a:link {
+	text-decoration: none;
+}
+.nav a:hover {
+	text-decoration: underline;
+}
+
+.link1 {
+	font-style:italic;
+}
+.link1 a:link {
+	text-decoration: none;
+}
+.link1 a:hover {
+	text-decoration: underline;
+}
+
